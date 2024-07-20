@@ -30,20 +30,21 @@
     
 <br>  
 <hr>
-<h4>Framework em aprendizado:</h4>
+<h3>Framework em aprendizado:</h3>
 <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="vuejs">
 
 <br>
 <hr>
 
-<h4>Banco de dados em aprendizado:</h4>
+<h3>Banco de dados em aprendizado:</h3>
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql">
 </div>
 
 <br>
 <hr>
+<h3>Leetcode</h3>
 <a href="https://leetcode.com/u/Enisch/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="leetcode"/>
 </a>
 
 
