@@ -14,7 +14,6 @@
     <img align=center alt="Dotnet" src = "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
      <img align=center alt="C" src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </div>
-<hr>
 ### <strong>Banco de dados</strong>:
 <div style="display": inline_block>
     <img align=center alt="MySql" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"><br>
@@ -29,13 +28,10 @@
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript">
     
 <br>  
-<hr>
 <h3>Framework em aprendizado:</h3>
 <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="vuejs">
 
 <br>
-<hr>
-
 <h3>Banco de dados em aprendizado:</h3>
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql">
 </div>
