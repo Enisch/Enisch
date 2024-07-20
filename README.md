@@ -1,4 +1,4 @@
-### Olá!👋 Eu sou o <ins>Nicholas Maciel Rodrigues</ins>, programador Back-End.
+### Olá!👋 Eu sou o <ins><strong>Nicholas Maciel Rodrigues</strong></ins>, programador com foco <em>Back-End</em>.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-maciel-rodrigues-521528256/)
 
@@ -8,15 +8,30 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enisch&show_icons=true&theme=tokyonight)
 
 
-#### FrameWorks e linguagens que utilizo:
+#### <em><mark>FrameWorks</mark> e <mark>linguagens</mark><em> que utilizo:
 <div style="display": inline_block>
     <img align=center alt="C#" src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
     <img align=center alt="Dotnet" src = "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
      <img align=center alt="C" src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </div>
 
-### Banco de dados:
+### <strong>Banco de dados</strong>:
 <div style="display": inline_block>
     <img align=center alt="MySql" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img align=center alt="SqlServer" src = "https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white">
 </div>
+#### &#9874; Em aprendizado:
+<div>
+[<img src="" alt="">](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+    https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+    https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+
+<h4>Framework em aprendizado:</h4>
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
+<h4>Banco de dados em aprendizado:</h4>
+ ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+</div>
+
+
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)([https://leetcode.com/progress/](https://leetcode.com/u/Enisch/))
