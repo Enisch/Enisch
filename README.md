@@ -17,27 +17,40 @@
 <hr>
 ### <strong>Banco de dados</strong>:
 <div style="display": inline_block>
-    <img align=center alt="MySql" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img align=center alt="MySql" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"><br>
     <img align=center alt="SqlServer" src = "https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white">
 </div>
+<br>
 <hr>
+<br>
+
 <h3>&#9874; <em><strong>Em aprendizado:</strong></em></h3>
 <div>
+    
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html 5">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript">
     
+<br>  
 <hr>
+<br>
+
 <h4>Framework em aprendizado:</h4>
 <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="vuejs">
 
+<br>
 <hr>
+<br>
+
 <h4>Banco de dados em aprendizado:</h4>
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql">
 </div>
 
+<br>
 <hr>
-<a href="http://www.google.com](https://leetcode.com/u/Enisch/" target="_blank">
+<br>
+
+<a href="https://leetcode.com/u/Enisch/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
 </a>
 
