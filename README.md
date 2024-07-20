@@ -1,4 +1,4 @@
-### Olá!👋 Eu sou o Nicholas Maciel Rodrigues, programador Back-End.
+### Olá!👋 Eu sou o <ins>Nicholas Maciel Rodrigues</ins>, programador Back-End.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-maciel-rodrigues-521528256/)
 
